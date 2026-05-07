@@ -1,3 +1,98 @@
+## 1405/02/17 15:51 — DW_Farsi
+> 🔶 وزیر خارجه اسرائیل: سرنوشت ایران را مردم این کشور رقم می‌زنند نه اسرائیل
+> 
+> گیدئون ساعر، وزیر خارجه اسرائیل در مصاحبه با رسانه‌ آلمانی "دی ولت" در پاسخ به پرسشی در خصوص هدف جنگآمریکا و اسرائیل علیه جمهوری اسلامی گفت: «ما در وضعیت آتش‌بس قرار داریم، اما همزمان برای هر وضعیتی آماده هستیم. مهم‌ترین موضوع این است که مانع از آن شویم که ایران به سلاح هسته‌ای دست پیدا کند.»
+> 
+> ساعر با اشاره به مسیر دیپلماسی کنونی و مذاکرات جاری بین آمریکا و جمهوری اسلامی گفت: «ما از تلاش‌های دیپلماتیک دونالد ترامپ، رئیس ‌جمهور ایالات متحده آمریکا، حمایت می‌کنیم. مهم‌ترین خواسته‌ها این است که ایران تمام مواد غنی‌شده را از کشور خارج کند و متعهد شود که در خاک ایران هیچ اورانیومی غنی‌سازی نکند. اما تا این لحظه هیچ آمادگی‌ای در این زمینه نمی‌بینم. اشتباه ایرانی‌ها این است که فکر می‌کنند مسلح شدن به سلاح هسته‌ای می‌تواند بقای حکومت آن‌ها را تضمین کند.»
+> 
+> وزیر خارجه اسرائیل در پاسخ به پرسشی مبنی بر این که آتش‌بس از نظر او تا چه مدت می‌تواند دوام داشته باشد گفت: «سقوط حکومت در دست مردم ایران است، نه در دست ما. ما از همان ابتدا این را می‌دانستیم. حکومت ایران اعتراض‌ها مردم را به‌طرزی وحشیانه سرکوب کرده است. آن‌ها ده‌ها هزار نفر را کشته‌اند و حدود ۱۰۰ هزار نفر را بازداشت کرده‌اند.»
+> 
+> ساعر افزود: «بخش بزرگی از مردم شجاعی که در ماه ژانویه به خیابان‌ها آمدند، اکنون یا کشته شده‌اند یا در زندان هستند. بنابراین در حال حاضر برای مردم ایران دشوار است که دوباره برای آزادی خود مبارزه کنند. اما من احتمال واکنش با تأخیر را رد نمی‌کنم. معمولا مردم در میانه بحران به خیابان‌ها نمی‌آیند. ما معتقدیم که حکومت‌های استبدادی دوام همیشگی ندارند. و ایران به‌سمت یک بحران اقتصادی عظیم حرکت می‌کند.»
+> 
+> او در پاسخ به سوالی مبنی بر این که در این جنگ، غرب نیز از نظر اقتصادی تحت فشار قرار دارد و آیا اسرائیل نگران است که این فشار آن‌قدر بزرگ شود که متحدانش دیگر از تقابل با ایران حمایت نکنند، گفت: «افکار عمومی در اروپا از همان ابتدا نگاه چندان مثبتی به این جنگ نداشت. اما این اشتباه است. من معتقدم مقابله با این حکومت دیوانه‌وار در راستای منافع دنیای آزاد است.»
+> 
+> وزیر خارجه اسرائیل افزود: «نگاه کنید که ایران چگونه بدون هیچ تحریک قبلی به امارات متحده عربی حمله کرد. ایران فقط تهدیدی برای موجودیت اسرائیل نیست. بسیاری از کشورهای عربی، به‌ویژه کشورهای حاشیه خلیج فارس، این موضوع را به‌روشنی درک کرده‌اند. در ضمن، این جنگ، اسرائیل و امارات متحده عربی را بسیار به یکدیگر نزدیک‌تر کرده است.»
+> @dw_farsi
+
+## 1405/02/17 15:49 — IranianMinds
+![Photo](telegram/content/IranianMinds_19684_1778156552.jpg)
+
+> 🔴مدیر کل سازمان بهداشت WHO امروز یک نشست خبری درباره ویروس هانتاویروس برگزار خواهد کرد.
+> 
+> خامنه‌ای هنوز دفن نشده.
+> 
+> @IranianMinds
+
+## 1405/02/17 15:46 — mwarmonitor
+> 🔴(رویترز) - به گفته یک منبع آگاه، مسعود پزشکیان، رئیس‌جمهور ایران، روز پنج‌شنبه در گزارش رسانه‌های دولتی اعلام کرد که اخیراً با مجتبی خامنه‌ای، رهبر عالی، دیدار کرده است؛ این نخستین گزارش علنی از دیدار او با خامنه‌ای پس از آن است که گفته می‌شود وی در آغاز جنگ ایران و اسرائیل-آمریکا دچار جراحات شدید شده بود.
+> 
+> 🔸پزشکیان گفته است که این دیدار در فضایی «متواضعانه و بسیار صمیمی» انجام شده است.
+> 
+> @mwarmonitor
+
+## 1405/02/17 15:45 — mwarmonitor
+> 🔴(رویترز) - یک منبع آگاه به رویترز گفته است که «رستم عمروف»، مذاکره‌کننده ارشد اوکراین، برای گفت‌وگو با نمایندگان ایالات متحده درباره پایان دادن به جنگ روسیه در اوکراین، وارد میامی شده است.
+> 
+> @mwarmonitor
+
+## 1405/02/17 15:44 — Shin_Persian
+![Photo](telegram/content/Shin_Persian_5838_1778156553.jpg)
+
+> DefenceGeek 🇬🇧 ✓ @DefenceGeek Thu, 07 May 2026 12:08:11 UTC Search Continues for missing US troops off coast of Morocco Two US troops who went missing while on leave from Exercise AFRICAN LION 2026 are still unaccounted for, with P-8A "Poseidon" maritime…
+
+## 1405/02/17 15:44 — Shin_Persian
+> DefenceGeek 🇬🇧 ✓ @DefenceGeek
+> Thu, 07 May 2026 12:08:11 UTC
+> 
+> Search Continues for missing US troops off coast of Morocco
+> 
+> Two US troops who went missing while on leave from Exercise AFRICAN LION 2026 are still unaccounted for, with P-8A "Poseidon" maritime patrol aircraft flying from Sigonella NAS still being used to search the coastline and waters for the personnel.
+> 
+> The P-8A is designed for search and rescue operations at sea as part of the maritime patrol role
+> 
+> @MATA_osint
+> https://www.independent.co.uk/bulletin/news/missing-soldiers-us-army-morocco-b2970928.html
+> 
+> فارسی
+> 
+> تداوم جستجو برای نیروهای مفقود شده آمریکایی در سواحل مراکش
+> 
+> دو نیروی آمریکایی که در زمان مرخصی از رزمایش «شیر آفریقا ۲۰۲۶» (AFRICAN LION 2026) ناپدید شده‌اند، همچنان مفقودالاثر هستند. هواپیماهای گشت دریایی P-8A «پوسایدون» که از پایگاه هوایی سیگونلا (Sigonella NAS) به پرواز درآمده‌اند، همچنان برای جستجوی خط ساحلی و آب‌ها جهت یافتن این پرسنل مورد استفاده قرار می‌گیرند.
+> 
+> هواپیمای P-8A به عنوان بخشی از نقش گشت‌زنی دریایی، برای عملیات جستجو و نجات در دریا طراحی شده است.
+> 
+> @MATA_osint
+> https://www.independent.co.uk/bulletin/news/missing-soldiers-us-army-morocco-b2970928.html
+> 
+> 𝕏 · @shin_persian
+
+## 1405/02/17 15:43 — Shin_Persian
+![Photo](telegram/content/Shin_Persian_5836_1778156554.jpg)
+
+> Emanuel (Mannie) Fabian ✓ @manniefabian Thu, 07 May 2026 12:05:17 UTC The chief of the Ground Forces, Maj. Gen. Nadav Lotan has appointed a senior officer to be responsible for finding solutions for the drone threat troops are facing in southern Lebanon.…
+
+## 1405/02/17 15:43 — Shin_Persian
+> Emanuel (Mannie) Fabian ✓ @manniefabian
+> Thu, 07 May 2026 12:05:17 UTC
+> 
+> The chief of the Ground Forces, Maj. Gen. Nadav Lotan has appointed a senior officer to be responsible for finding solutions for the drone threat troops are facing in southern Lebanon.
+> 
+> The officer, a brigadier general and a pilot, heads the Ground Forces' Strike Division, which is normally tasked with developing doctrine for combined air, intelligence, and ground operations.
+> 
+> Several officers are working under the general to find solutions for first-person view (FPV) drones, especially those guided by fiber-optic cables, which are immune to electronic jamming and difficult to detect.
+> 
+> To counter the fiber optic FPV drones, the IDF has deployed passive physical defenses in southern Lebanon, such as netting above troops, vehicles, and outposts. According to the military, these measures have proven effective when troops "maintain operational discipline."
+> 
+> The IDF has also deployed mobile radars to southern Lebanon, which are adapted to identify drones flying at different ranges and alert forces, who can then attempt to shoot them down.
+> 
+> The military is examining and implementing several methods of shooting down the drones by ground troops, including shotguns at short ranges, special ammunition that disperses in the air, and automated turrets.
+> 
+> The Ground Forces is also experimenting with other technological solutions for the drones, and cooperating with international partners as part of the effort, according to the military.
+> 
+> ترجمه فارسی در بخش نظرات
+> 
+> 𝕏 · @shin_persian
+
 ## 1405/02/17 15:38 — Persian_Trend_Official
 ![Photo](telegram/content/Persian_Trend_Official_13586_1778155957.jpg)
 
