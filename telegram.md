@@ -3,6 +3,391 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/18 00:11
+---
+
+## VahidOOnLine — post 238743
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238743_1778186518.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️ابراهیم عزیزی، رئیس کمیسیون امنیت ملی مجلس، پنجشنبه شب ۱۷ اردیبهشت و همزمان با انتشار گزارش‌هایی درباره شنیده شدن صدای انفجار در بندرعباس و جزیره قشم، در اکس نوشت که تکرار اشتباهات با پاسخ شدیدتر و کوبنده‌تری روبه‌رو خواهد شد و باید به «نظم جدید دریایی ایران» احترام گذاشته شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238742
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238742_1778186518.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+رسانه‌های ایران از شنیده‌شدن صدای «فعالیت شدید پدافند هوایی» در غرب تهران در شامگاه پنجشنبه خبر دادند.
+
+ایرنا، خبرگزاری دولت جمهوری اسلامی، اعلام کرد: «ساعت ۲۳:۵۲ پنجشنبه شب، بعد از دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شد.»
+
+همزمان خبرگزاری مهر گزارش داد «پدافند موفق به سرنگونی دو هواگرد متخاصم بر روی آسمان بندرعباس و قشم شده است.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 238741
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_238741_1778186519.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+♦️به گزارش خبرگزاری مهر، در نخستین ساعت بامداد جمعه ۱۸ اردیبهشت، صدای چند انفجار و فعالیت پدافند در غرب تهران شنیده شد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 8659
+
+
+<div dir="rtl">
+⚠️خبر فوری: به گفته یک مقام ارشد آمریکایی، ارتش ایالات متحده حملاتی را علیه جزیره قشم و بندرعباس ایران انجام داده است — به نقل از فاکس نیوز.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 8658
+
+
+<div dir="rtl">
+📝 ترامپ احتمالاً تهش توئیت می‌زنه: «اصلاً برخورد فیزیکی در کار نبوده، فقط داشتیم با برادران ایرانی روی ناوشکن، تست مقاومت بدنه و کیفیت رنگ بدنه انجام می‌دادیم؛ عالی بود، ۱۰ از ۱۰!»
+از توجه شما سپاسگزارم دونالد جی ترامپ
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90332
+
+
+<div dir="rtl">
+من بخابم جنگ میشه
+</div>
+
+## pm_afshaa — post 90331
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90331_1778186520.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+غرب تهران هم اکنون
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4493
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4493_1778186522.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+⭕️
+🧨 
+🚨 خبرگزاری‌های رسمی جمهوری اسلامی در آخرین دقایق پنجشنبه گزارش دادند که پس بعد دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شده است. پیش از این خبرهای غیر رسمی از فعالیت پدافند هوایی و انفجار در منطقه بیدگنه خبر داده بودند. …
+</div>
+
+## DEJradio — post 4492
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4492_1778186523.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+⭕️
+🧨 
+🚨 خبرگزاری‌های رسمی جمهوری اسلامی در آخرین دقایق پنجشنبه گزارش دادند که پس بعد دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شده است.
+پیش از این خبرهای غیر رسمی از فعالیت پدافند هوایی و انفجار در منطقه بیدگنه خبر داده بودند.
+
+#تهران #انفجار
+@DEJradio
+</div>
+
+## DEJradio — post 4491
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4491_1778186523.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🚨
+🔸 سامان شریفیان کارآفرین و فعال بازارهای مالی در برنامه «پرتوی دیگر» عنوان کرد جنگ به مردم ایران یاد داد جمهوری اسلامی ظرفیت فروپاشی دارد.
+
+برنامه پرتوی دیگر هر آدینه از یوتیوب کیهان لندن و شبکه دژ ساعت ۱۹:۰۰ به‌وقت تهران پخش می‌شود.
+
+#پرتوی_دیگر #جمهوری_اسلامی
+@DEJradio
+</div>
+
+## VahidOnline — post 75308
+
+
+<div dir="rtl">
+هرمزگان:
+
+وحید بندر [عباس؟] صدای انفجار اومد الان
+
+الان ساعت دوازده شب صدای دو انفجار دیگه در بندرعباس شنیده شد
+
+همین الان بندرعباس صدای انفجار اومد
+
+سلام بندرعباس ۰۰:۰۰ یک صدا اومد
+
+۰۰:۰۲ بامداد جمعه ۱۸ اردیبهشت صدای تک انفجار این دفعه از فاصله بسیار دورتر ظاهرا از مناطقی در نزدیکی جزیره لارک یا هرمز بود.
+خودم همچنان در همین محدوده نزدیک اسکله بهمن، محله دوحه و چابهار هستم
+
+📡 @VahidOnline
+</div>
+
+## kianmeli1 — post 87244
+
+
+<div dir="rtl">
+🔴فوری-فاکس نیوز
+
+ایالات متحده حملاتی را به بندر قشم و بندرعباس ایران انجام داده است
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87243
+
+
+<div dir="rtl">
+🔴فوری- گچین بندرعباس هدف حمله هوایی قرار گرفت
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87242
+
+
+<div dir="rtl">
+🔴فوری
+
+امیرحاتمی،فرمانده کل ارتش
+
+پشیمان خواهند شد
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87241
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87241_1778186524.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری-خبرهایی از حمله به محدوده شهران تهران
+
+پدافند فعال شده
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 336034
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336034_1778186526.jpg" alt="Photo">
+</div>
+<div dir="rtl">
+رسانه‌های ایران از شنیده‌شدن صدای «فعالیت شدید پدافند هوایی» در غرب تهران در شامگاه پنجشنبه خبر دادند.
+
+ایرنا، خبرگزاری دولت جمهوری اسلامی، اعلام کرد: «ساعت ۲۳:۵۲ پنجشنبه شب، بعد از دو صدای مهیب، برای چندین دقیقه صدای شلیک ممتد پدافند در غرب تهران شنیده شد.»
+
+همزمان خبرگزاری مهر گزارش داد «پدافند موفق به سرنگونی دو هواگرد متخاصم بر روی آسمان بندرعباس و قشم شده است.»
+https://iranintl.com/202605074267
+</div>
+
+## Iliaen — post 4431
+
+<div align="center">
+  <a href="telegram/content/Iliaen_4431_1778186527.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+مشاهده یک شی نورانی در آسمان سیریک (هرمزگان)؛ پس از چند دقیقه صدای انفجار شنیده شد.
+
+@iliaen
+</div>
+
+## FarsiVOA — post 217144
+
+
+<div dir="rtl">
+🔺گزارش‌های متفاوت رسانه‌های حکومتی در ایران از انفجارها در بندرعباس و جزیره قشم
+
+▪️رسانه‌های حکومتی در ایران شامگاه پنجشنبه ۱۷ اردیبهشت از شنیده شدن چند صدای انفجار در بندرعباس و جزیره قشم خبر دادند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8147702.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 13634
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13634_1778186527.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فعالیت پدافند در آسمان تهران
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19738
+
+
+<div dir="rtl">
+🔴 فاکس نیوز : ایالات متحده در حال حمله ی هوایی به بندر عباس و قشم است @IranianMinds
+</div>
+
+## IranianMinds — post 19737
+
+
+<div dir="rtl">
+🔴 فاکس نیوز :
+
+ایالات متحده در حال حمله ی هوایی به بندر عباس و قشم است
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 19736
+
+
+<div dir="rtl">
+فوری
+</div>
+
+## IranianMinds — post 19735
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_19735_1778186529.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴 تهران
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389069
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389069_1778186530.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+مشاهده یک شی نورانی در آسمان سیریک (هرمزگان)؛ پس از چند دقیقه صدای انفجار شنیده شد.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389068
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389068_1778186531.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+ساعت ۲۳:۵۷ پنجشنبه؛ تهران محدوده‌ی شهران
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 118507
+
+<div align="center">
+  <a href="telegram/content/alonews_118507_1778186532.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈وزارت امور خارجه ایالات متحده شروع به لغو گذرنامه‌های آمریکایی‌هایی خواهد کرد که بدهی‌های زیادی بابت نفقه کودک پرداخت نشده دارند، ابتدا افرادی که بدهی‌های ۱۰۰٬۰۰۰ دلار یا بیشتر دارند را هدف قرار می‌دهد و به زودی شامل کسانی می‌شود که بیش از ۲٬۵۰۰ دلار بدهکارند، گزارش AP.
+
+
+🔴 این سیاست که از جمعه آغاز می‌شود، می‌تواند حدود ۲٬۷۰۰ دارنده گذرنامه آمریکایی را تحت تأثیر قرار دهد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118506
+
+<div align="center">
+  <a href="telegram/content/alonews_118506_1778186533.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴راه‌های دسترسی به برنامه‌های رادیو و تلویزیون انقلاب ملی ایران:
+
+ماهواره: یوتلست 7B · 7° غربی
+IRNR TV: 11304 H 29700
+IRNRTV : 11262 H 27500
+
+
+🔴رادیو انقلاب ملی ایران که بدون اینترنت و برق فقط با یه رادیو باتری ای یا شارژی ساده میشه دسترسی پیدا کرد.
+
+
+🔴موج متوسط AM فرکانس 864 کیلوهرتز
+هر شب ساعت هشت شب به وقت ایران
+
+
+✅@AloNews
+</div>
+
+## alonews — post 118504
+
+<div align="center">
+  <a href="telegram/content/alonews_118504_1778186535.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری / ایرنا: دفاع هوایی ایران در حال مقابله با پرتابه‌های خصمانه بالای تهران است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118503
+
+<div align="center">
+  <a href="telegram/content/alonews_118503_1778186536.jpg">🎬 Download video</a>
+</div>
+<div dir="rtl">
+👈صدای انفجار در غرب تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118502
+
+<div align="center">
+  <a href="telegram/content/alonews_118502_1778186536.mp4">🎬 Download video</a>
+</div>
+<div dir="rtl">
+🔴فوری/خبرهایی از حمله به محدوده شهران تهران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118501
+
+
+<div dir="rtl">
+👈جهت رزرو تبلیغات برای VPN در کانال #الونیوز به کانال زیر مراجعه کنید👇
+
+
+📃https://t.me/ads_alonews
+
+📃https://t.me/ads_alonews
+</div>
+
+---
 📅 بروزرسانی: 1405/02/18 00:02
 ---
 
