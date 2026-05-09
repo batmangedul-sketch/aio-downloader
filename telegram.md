@@ -7,6 +7,22 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 23:07
+---
+
+## alonews — post 118944
+
+<div align="center">
+  <a href="telegram/content/alonews_118944_1778355456.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اپراتورای پهپاد اوکراینی با یه پهپاد FPV که روش تفنگ ساچمه‌ای بستن، دارن پهپادهای FPV روسی رو می‌زنن پایین
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 23:02
 ---
 
