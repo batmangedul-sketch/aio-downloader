@@ -7,6 +7,131 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 14:43
+---
+
+## pm_afshaa — post 90613
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴اسرائیل هیوم: هزاران اسرائیلی پیام‌های تهدیدآمیزی از هکرهای وابسته به جمهوری اسلامی ایران دریافت کردن که از شهروندان خواسته شده با جمهوری اسلامی ایران همکاری اطلاعاتی کنن
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 336800
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336800_1778584384.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا ۱۲ فرد و شرکت را به‌دلیل نقش داشتن در تسهیل فروش و انتقال نفت ایران از سوی سپاه پاسداران انقلاب اسلامی به جمهوری خلق چین تحریم کرد.
+
+گفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 336799
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336799_1778584385.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مروری بر روزنامه‌های ایران، سه‌شنبه ۲۲ اردیبهشت، با مجتبی هاشمی، روزنامه‌نگار
+@iranintltv
+</div>
+
+## IranIntlTV — post 336798
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336798_1778584387.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای سه‌شنبه ۲۲ اردیبهشت
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 13974
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دقایقی قبل ارتش اسرائیل از رهگیری یک پهپاد که از سمت ایران یا حوثی ها به سمت جنوب اسرائیل شلیک شده بود خبر داد. ☆Phantom☆ 📌 @persian_trend_official پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13973
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13973_1778584388.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دقایقی قبل ارتش اسرائیل از رهگیری یک پهپاد که از سمت ایران یا حوثی ها به سمت جنوب اسرائیل شلیک شده بود خبر داد.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157085
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157085" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸روز اقدام جهانی با هدف اعتراض به ادامه حبس زندانیان سیاسی، اعدام‌های گسترده و همچنین قطع اینترنت روز بیستم اردیبهشت در چندین شهر برگزار شد.
+
+🔸 هواداران شاهزاده رضا پهلوی در شهرهای مختلف دنیا، از جمله در اروپا و آمریکا شمالی به خیابان آمدند و به این حرکت پیوستند؛ برخی شهرها مثل برلین و هامبورگ و استکهلم جمعیت قابل توجهی به این فراخوان پاسخ دادند و در برخی شهرهای دیگر تجمعات به نسبت موارد پیشین کوچکتر برگزار شد.
+
+🔸پس از انتشار تصاویر برخی از تجمعات، بحثی پیرامون آن شکل گرفته است؛ مشخصا تجمع در شهر رگنسبورگ در آلمان، معترضان با لباس‌های متحدالشکل با نشان ساواک (سازمان اطلاعات و امنیت کشور) و پرچم‌هایی با همین نشان به خیابان آمدند.
+
+🔸در نمونه‌ای دیگر شرکت‌کنندگان در تجمع با یونیفرم نظامی به خیابان آمده بودند. تصاویری که بسیار متفاوت از تصاویر تجمعاتِ معمول ایرانیان خارج از کشور بود.
+
+🔸 درباره این روز اقدام جهانی و بحث‌های پیرامون آن ارزیابی عبدالرضا احمدی عضو حزب ایران نوین در آلمان را بشنوید.
+
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20001
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سپاه اصفهان:
+
+امروز از ساعت ۱۵ تا ۱۸ در محدوده زردنجان، احتمال شنیده شدن صدای انفجار هست که کنترل شده هست.
+
+@IranianMinds
+</div>
+
+## alonews — post 119472
+
+<div align="center">
+  <a href="telegram/content/alonews_119472_1778584389.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی وزارت خارجه: مطمئن هستم هر کسی که جرأت کند پا به خاک ایران بگذارد، به‌شدت آسیب خواهد دید
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119471
+
+<div align="center">
+  <a href="telegram/content/alonews_119471_1778584389.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/هم اکنون ارتش اسرائیل از رهگیری یک پهپاد که از سمت ایران یا حوثی ها به سمت جنوب اسرائیل شلیک شده بود خبر داد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 14:33
 ---
 
