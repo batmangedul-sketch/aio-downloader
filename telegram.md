@@ -7,6 +7,39 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 08:33
+---
+
+## Shin_Persian — post 5984
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Wed, 13 May 2026 04:53:24 UTC
+
+Ehsan Afreshte has been executed by Islamic Regime today. Regime claims he was trained by Mossad in Nepal and sold intelligence to Israel.
+#Iran
+
+فارسی
+
+احسان افراشته امروز توسط رژیم اسلامی اعدام شد. رژیم مدعی است که او توسط موساد در نپال آموزش دیده و اطلاعات را به اسرائیل فروخته است.
+#Iran
+
+𝕏 · @shin_persian
+</div>
+
+## IranianMinds — post 20051
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20051_1778648629.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شما فک کنید یه جوون بی گناه که نه پستی داشته و نه مقامی تو کشور رو دی ماه دستگیر کردن بعدشم اعدامش کردن گفتن جاسوس موساد بوده رفته نپال آموزش دیده !
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 08:23
 ---
 
