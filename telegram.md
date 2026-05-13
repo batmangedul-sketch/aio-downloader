@@ -7,6 +7,123 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 00:05
+---
+
+## VahidOOnLine — post 239981
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239981_1778704518.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️شبکه العربیه چهارشنبه ۲۳ اردیبهشت‌ماه گزارش داد دولت لبنان با طرح شکایتی در شورای امنیت سازمان ملل، جمهوری اسلامی و سپاه پاسداران را به مداخله در امور داخلی این کشور و کشاندن لبنان به درگیری با اسرائیل متهم کرده است.
+
+احمد عرفه، نماینده دائم لبنان در سازمان ملل، اعلام کرد بیروت در این شکایت از شورای امنیت خواسته است جمهوری اسلامی را به‌دلیل اقداماتی که «خلاف منافع لبنان» بوده و این کشور را وارد «جنگی ویرانگر با پیامدهای فاجعه‌بار» با اسرائیل کرده، پاسخگو کند.
+
+او گفت در جریان این درگیری‌ها هزاران نفر کشته و زخمی شده‌اند و بیش از یک میلیون شهروند لبنانی آواره شده‌اند. به گفته عرفه، در این شکوائیه نهادهای وابسته به جمهوری اسلامی، به‌ویژه سپاه پاسداران، به اقدامات غیرقانونی و نادیده گرفتن تصمیمات دولت لبنان متهم شده‌اند.
+
+یوسف رجی، وزیر خارجه لبنان، چهارم فروردین‌ماه اعلام کرده بود سفیر تازه منصوب جمهوری اسلامی را به‌عنوان «عنصر نامطلوب» شناخته و از او خواسته است تا نهم فروردین خاک لبنان را ترک کند. سخنگوی وزارت خارجه جمهوری اسلامی در واکنش گفته بود سفیر جمهوری اسلامی لبنان را ترک نخواهد کرد و به ماموریت خود ادامه می‌دهد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## mwarmonitor — post 9057
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9057_1778704518.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸خبرنگار: سناتور، آیا بازه ۹۰ روزه در ۳۱ می (۱۰ خرداد) در مورد ایران، در این مقطع اهمیتی دارد؟
+🔹لیندسی گراهام: نه.
+🔸خبرنگار: چرا نه؟
+🔹لیندسی گراهام: چرا باید اهمیت داشته باشه؟ طبق «قانون اختیارات جنگی»؟ به نظرم این قانون کاملاً غیرقانونی و برخلاف قانون اساسی است. هر رئیس‌جمهوری این رو گفته و من هم باهاشون موافقم.
+فکر نمی‌کنم قانون اساسی اجازه بده که فرمانده کل قوا، فقط برای ۹۰ روز فرمانده کل باشه. اگه شما به عنوان عضو کنگره از عملکرد فرمانده کل قوا راضی نیستید، بودجه عملیات نظامی رو قطع کنید.
+هر راه دیگه‌ای غیر از این، باعث می‌شه ۵۳۵ نفر فرمانده کل قوا داشته باشیم! کل مفهوم «قانون اختیارات جنگی» خطرناک، پوچ و مضحکه و فقط منجر به هرج‌ومرج می‌شه.
+کنگره نمی‌تونه جنگ‌ها رو مدیریت کنه. اگه می‌خواید جنگ رو متوقف کنید، بودجه‌اش رو قطع کنید. این تنها قدرتیه که ما در کنگره داریم؛ نه بیشتر و نه کمتر.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341676
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: The White House shares brand new photos of President Trump's arrival in China for his landmark state visit, where he will meet with President Xi to discuss major foreign policy and trade issues.
+</div>
+
+## FarsiVOA — post 217667
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️وام «ارزان» و کلان شرکت خودروسازی سایپا از مردم
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14075
+
+<div align="center">
+  <a href="https://t.me/persian_trend_official/14075" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل صوتی لایو اول
+نسخه کم حجم - 6.71 مگابایت
+
+اتاق جنگ چهارشنبه 23 اردیبهشت | جمهوری اسلامی ناو امریکایی را تهدید به حمله کرد.
+
+فورمت mp3 همیشگی
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157154
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157154_1778704520.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸منابع امنیتی از دو حملۀ پهپادی به کمپ شبه‌نظامیان کرد مخالف جمهوری اسلامی، در شمال شهر اربیل واقع در اقلیم کردستان عراق خبر می‌دهند.
+
+🔸به گفتۀ این منابع، یک زاغه تجهیزات و مهمات در داخل این اردوگاه هدف قرار گرفته است. گزارشی از تلفات احتمالی این حملات منتشر نشده است.
+
+🔸سه روز پیش هم حمله مشابهی به اردوگاهی دیگر در شرق اربیل رخ داده بود.
+
+🔸طی ماه‌های اخیر سپاه پاسداران بارها مواضع شبه‌نظامیان کرد مخالف جمهوری اسلامی در اقلیم کردستان را با پهپاد و موشک هدف قرار داده است.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20089
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20089_1778704521.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مهدی تاج رئیس فدراسیون فوتبال :
+
+معین قراره برای تیم ملی یه آهنگ بخونه !
+
+@IranianMinds
+</div>
+
+## alonews — post 119821
+
+<div align="center">
+  <a href="telegram/content/alonews_119821_1778704521.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امارات : خبرهایی که درباره سفر نتانیاهو به امارات پخش شده، صحت نداره
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 23:56
 ---
 
