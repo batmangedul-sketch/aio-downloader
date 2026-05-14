@@ -1,6 +1,6 @@
 <div align="center">
 
-# aio‑downloader — All‑in‑One GitHub Actions Downloader
+# All‑in‑One GitHub Actions Downloader
 ## بدون فیلتر · بدون تحریم · بدون نیاز به سرور شخصی
 
 ⭐ اگر این پروژه برایتان مفید است، لطفاً ستاره بدهید — به دیگران کمک می‌کند پیدایش کنند! ⭐
