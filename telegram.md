@@ -7,6 +7,169 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 16:14
+---
+
+## VahidOOnLine — post 240109
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240109_1778762670.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مصطفی نخعی، عضو کمیسیون انرژی مجلس گفت: «ما با کسری بنزین مواجهیم و قبل از جنگ هم کمبود بنزین وجود داشت و روزانه حدود ۲۰ میلیون لیتر کسری بنزین داشتیم که باید با واردات جبران می‌کردیم.»
+
+او ادامه داد: «سناریوهای مختلفی در خصوص بنزین در دولت در حال بررسی است اما هنوز سناریویی قطعی نشده است.»
+
+این نماینده مجلس ادامه داد: «درحال حاضر یا سهمیه باید کاهش یابد یا از ابزار قیمتی استفاده شود که حداقل مجلس چندان موافق این موضوع نیست.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11213
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خزانه داری آمریکا:ایران رو انقدر تحت فشار اقتصادی قرار دادیم که توی پرداخت حقوق نیروهاشم به مشکل خورده. دارن نفسای آخرشونو میکشن
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341724
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341724_1778762670.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @FNCGlobalNews: FOREIGN NETWORK HQ: A pro-China nonprofit under federal investigation just dropped $5.15 million on a Manhattan building to serve as its 'permanent home' for far-left organizing.
+
+The People's Forum, tied to Shanghai-based Marxist mogul Neville Roy Singham's network, is now urging supporters to raise another $5 million to renovate the rundown property.
+
+Lawmakers say the group's funding raises "significant concerns" about "foreign influence or control."
+
+Story by @AsraNomani & @M_Dorgan
+</div>
+
+## IranIntlTV — post 337164
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337164_1778762671.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مصطفی نخعی، عضو کمیسیون انرژی مجلس گفت: «ما با کسری بنزین مواجهیم و قبل از جنگ هم کمبود بنزین وجود داشت و روزانه حدود ۲۰ میلیون لیتر کسری بنزین داشتیم که باید با واردات جبران می‌کردیم.»
+
+او ادامه داد: «سناریوهای مختلفی در خصوص بنزین در دولت در حال بررسی است اما هنوز سناریویی قطعی نشده است.»
+
+این نماینده مجلس ادامه داد: «درحال حاضر یا سهمیه باید کاهش یابد یا از ابزار قیمتی استفاده شود که حداقل مجلس چندان موافق این موضوع نیست.»
+https://iranintl.com/202605148048
+</div>
+
+## DW_Farsi — post 124698
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124698_1778762672.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 تشدید سرکوب بهائیان؛ الگوی همیشگی حکومت در ناآرامی‌های سیاسی
+ 
+🔻 گزارشی از الینا فرهادی
+ 
+در حالی که جمهوری اسلامی ایران در ماه‌های اخیر با خیلی از بحران‌های داخلی، تنش‌های منطقه‌ای و فشارهای امنیتی روبه‌رو بوده، جامعه بهائیان ایران بار دیگر با موج تازه‌ای از سرکوب مواجه شده است؛ موجی که این‌بار تنها به بازداشت و احکام قضایی محدود نمانده و با یورش به منازل، مصادره اموال، تبلیغات سازمان‌یافته و طرح اتهام‌های امنیتی علیه شهروندان بهائی همراه شده است.
+ 
+در روزهای گذشته، گزارش‌های منتشرشده از سوی نهادهای حقوق بشری، از افزایش فشارها بر بهائیان در شهرهایی چون شیراز، ساری، کرمان و مشهد خبر داده‌اند.
+ 
+وب‌سایت حقوق بشری "هه‌نگاو" گزارش داده نیروهای امنیتی در روزهای اخیر به خانه فرامرز و پریوش ندافیان، زوج بهائی ساکن شیراز، یورش برده و پس از چند ساعت تفتیش، تلفن‌های همراه، کتاب‌ها، وسایل شخصی و حتی طلا و جواهرات خانواده را ضبط کرده‌اند. یک روز پیش از آن نیز مأموران امنیتی به خانه افسانه جذابی، شهروند بهائی در شیراز حمله کرده و با طرح اتهام "همکاری با اسرائیل"، بخشی ازاموال شخصی  او را مصادره کرده‌اند.
+ @dw_farsi
+</div>
+
+## IranianMinds — post 20120
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20120_1778762672.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بنر حامیان حکومت در تجمع دیشب تهران:
+سید مجید نقطه‌زن، امتحانا نزدیکه، یه جایی‌رو زود بزن.
+
+@IranianMinds
+</div>
+
+## Dirty_Kids — post 389441
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389441_1778762673.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شی جین‌پینگ، رئیس‌جمهور چین در دیدار با ترامپ رئیس‌جمهور آمريکا:
+
+دو کشور ما باید شریک باشند، نه رقیب. مردم چین و ایالات متحده هر دو ملت‌های بزرگی هستند. تحقق احیای بزرگی ملت چین و عظمت دوباره آمریکا می‌تواند همزمان پیش برود. ما می‌توانیم به موفقیت یکدیگر کمک کنیم و رفاه کل جهان را ارتقا دهیم.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119928
+
+<div align="center">
+  <a href="telegram/content/alonews_119928_1778762674.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر امور خارجه مارکو روبیو:
+سیاست ایالات متحده در مورد تایوان از امروز و از جلسه ای که امروز اینجا داشتیم بدون تغییر است.
+
+
+🔴مطرح شد. آنها همیشه آن را در کنار خود بالا می برند. ما همیشه موضع خود را روشن می کنیم و به موضوعات دیگر می پردازیم.‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119927
+
+<div align="center">
+  <a href="telegram/content/alonews_119927_1778762675.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس جمهور ترامپ در پکن:
+من می خواهم یک لیوان را بالا ببرم و یک نوشابه به روابط غنی و پایدار بین مردم آمریکا و چین پیشنهاد کنم.
+
+
+🔴این یه رابطه خیلی خاصه‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119926
+
+<div align="center">
+  <a href="telegram/content/alonews_119926_1778762676.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس جمهور چین شی جین پینگ:
+هم چین و هم ایالات متحده از همکاری سود می برند و از رویارویی شکست می خورند.
+
+
+🔴دو کشور ما باید شریک باشند نه رقیب.‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119925
+
+<div align="center">
+  <a href="telegram/content/alonews_119925_1778762678.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت امور خارجه هند اعلام کرد که یه کشتی با پرچم هند در سواحل عمان مورد حمله قرار گرفته.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 16:04
 ---
 
