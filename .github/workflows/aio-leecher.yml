@@ -29,7 +29,6 @@ jobs:
         with:
           persist-credentials: true
 
-      # ── Install tools ──────────────────────────────────────
       - name: "Install yt-dlp, jq, ffmpeg"
         run: |
           echo "→ Installing / updating yt-dlp..."
@@ -47,7 +46,6 @@ jobs:
           sudo apt-get install -y -qq jq ffmpeg
           echo "✅ jq & ffmpeg ready."
 
-      # ── Parse input into JSON array (supports raw mode) ────
       - name: "Parse URLs"
         id: parse
         run: |
@@ -74,10 +72,9 @@ jobs:
                   i=$((i+1))
                 done
 
-                # Check if first arg is '--' → raw mode
                 if [ "${args[0]}" = "--" ]; then
                   raw=true
-                  args=( "${args[@]:1}" )   # remove the '--' itself
+                  args=( "${args[@]:1}" )
                   echo " ⚡ Raw mode detected — shortcut logic will be skipped"
                 fi
 
@@ -98,7 +95,6 @@ jobs:
           echo "ENTRIES_JSON=$ENTRIES_JSON" >> $GITHUB_OUTPUT
           echo "✅ Parsed $(echo "$ENTRIES" | jq length) URL(s)."
 
-      # ── Download (raw mode or shortcut mode) ─────────────
       - name: "Download (list formats, pick closest match or use raw args)"
         run: |
           set -e
@@ -134,7 +130,7 @@ jobs:
             echo " Args: $(echo "$args_json" | jq -r '.[]')"
             echo "========================================"
 
-            # ── RAW MODE: skip all shortcut logic ──────────
+            # ── RAW MODE ───────────────────────────────────
             if [ "$raw" = "true" ]; then
               echo "⚡ RAW MODE — passing arguments directly to yt-dlp"
               RAW_ARGS=$(echo "$args_json" | jq -r '. | join(" ")')
@@ -165,7 +161,6 @@ jobs:
             [ -z "$type" ] && type="v"
             [ -z "$val" ]  && val="max"
 
-            # List all available formats
             echo ""
             echo "→ Available formats (yt-dlp -F):"
             yt-dlp $COOKIE_ARGS --no-progress -F "$link" 2>&1 || true
@@ -178,6 +173,7 @@ jobs:
             }
 
             if [ "$type" = "a" ]; then
+              # ── AUDIO ────────────────────────────────────
               AUDIO_FORMATS=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec == "none" and .acodec != "none")]')
               if [ "$(echo "$AUDIO_FORMATS" | jq length)" -eq 0 ]; then
                 echo "❌ No audio-only formats – skipping."
@@ -196,7 +192,11 @@ jobs:
                   ;;
                 *)
                   BITRATE="$val"
-                  BITRATES=$(echo "$AUDIO_FORMATS" | jq '[.[].abr // .tbr] | unique | sort')
+                  BITRATES=$(echo "$AUDIO_FORMATS" | jq '[.[].abr // .tbr | select(. != null)] | unique | sort')
+                  if [ "$(echo "$BITRATES" | jq length)" -eq 0 ]; then
+                    echo "❌ No valid bitrate info – skipping."
+                    continue
+                  fi
                   CHOSEN=$(echo "$BITRATES" | jq --argjson b "$BITRATE" \
                     'map({br:., d:(. - $b | abs)}) | sort_by(.d, .br) | first.br')
                   FORMAT_ID=$(echo "$AUDIO_FORMATS" | jq -r --argjson br "$CHOSEN" \
@@ -207,6 +207,7 @@ jobs:
               yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
                 -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}kbps.%(ext)s" "$link"
             else
+              # ── VIDEO ────────────────────────────────────
               COMBINED=$(echo "$VIDEO_JSON" | jq '[.formats[] | select(.vcodec != "none" and .acodec != "none")]')
               if [ "$(echo "$COMBINED" | jq length)" -eq 0 ]; then
                 echo "❌ No combined (video+audio) formats – trying bestvideo+bestaudio."
@@ -216,27 +217,59 @@ jobs:
               fi
               echo "→ Found $(echo "$COMBINED" | jq length) combined formats."
 
+              # Helper to get formats with non‑null height
+              NON_NULL_HEIGHTS=$(echo "$COMBINED" | jq 'map(select(.height != null))')
+              HAS_HEIGHTS=$(echo "$NON_NULL_HEIGHTS" | jq length)
+
               case "$val" in
                 max)
-                  FORMAT_ID=$(echo "$COMBINED" | jq -r 'max_by(.height, .fps) | .format_id')
-                  CHOSEN=$(echo "$COMBINED" | jq -r 'max_by(.height, .fps) | .height')
+                  if [ "$HAS_HEIGHTS" -gt 0 ]; then
+                    FORMAT_ID=$(echo "$NON_NULL_HEIGHTS" | jq -r 'max_by(.height, .fps) | .format_id')
+                    CHOSEN=$(echo "$NON_NULL_HEIGHTS" | jq -r 'max_by(.height, .fps) | .height')
+                  else
+                    echo "⚠️ All formats have unknown resolution – picking first combined."
+                    FORMAT_ID=$(echo "$COMBINED" | jq -r 'first.format_id')
+                    CHOSEN="unknown"
+                  fi
                   ;;
                 min)
-                  FORMAT_ID=$(echo "$COMBINED" | jq -r 'min_by(.height, .fps) | .format_id')
-                  CHOSEN=$(echo "$COMBINED" | jq -r 'min_by(.height, .fps) | .height')
+                  if [ "$HAS_HEIGHTS" -gt 0 ]; then
+                    FORMAT_ID=$(echo "$NON_NULL_HEIGHTS" | jq -r 'min_by(.height, .fps) | .format_id')
+                    CHOSEN=$(echo "$NON_NULL_HEIGHTS" | jq -r 'min_by(.height, .fps) | .height')
+                  else
+                    echo "⚠️ All formats have unknown resolution – picking first combined."
+                    FORMAT_ID=$(echo "$COMBINED" | jq -r 'first.format_id')
+                    CHOSEN="unknown"
+                  fi
                   ;;
                 *)
                   HEIGHT="$val"
-                  HEIGHTS=$(echo "$COMBINED" | jq '[.[].height] | unique | sort')
+                  # Get sorted list of known heights (numbers only)
+                  HEIGHTS=$(echo "$NON_NULL_HEIGHTS" | jq '[.[].height] | unique | sort')
+                  if [ "$(echo "$HEIGHTS" | jq length)" -eq 0 ]; then
+                    echo "❌ No formats with known resolution – falling back to best."
+                    yt-dlp $COOKIE_ARGS --no-progress -f "best" \
+                      -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"
+                    continue
+                  fi
+                  # Find the closest height
                   CHOSEN=$(echo "$HEIGHTS" | jq --argjson h "$HEIGHT" \
                     'map({h:., d:(. - $h | abs)}) | sort_by(.d, .h) | first.h')
+                  # Pick the format with that height and highest fps
                   MATCHING=$(echo "$COMBINED" | jq --argjson h "$CHOSEN" 'map(select(.height == $h))')
                   FORMAT_ID=$(echo "$MATCHING" | jq -r 'max_by(.fps) | .format_id')
                   ;;
               esac
+
               echo "→ Selected format: $FORMAT_ID (height ~${CHOSEN}p)"
-              yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
-                -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}p.%(ext)s" "$link"
+              # Build output template
+              if [ "$CHOSEN" = "unknown" ]; then
+                yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
+                  -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"
+              else
+                yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
+                  -o "$OUTPUT_FOLDER/%(title)s-${CHOSEN}p.%(ext)s" "$link"
+              fi
             fi
 
             echo "✅ Download complete."
@@ -247,7 +280,6 @@ jobs:
           X_COOKIES: ${{ secrets.X_COOKIES }}
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
-      # ── Package and upload (per‑file, split >99MB) ──────
       - name: "Package each file individually into leecher/ (split at 99MB)"
         env:
           BRANCH: ${{ github.ref_name }}
@@ -265,7 +297,6 @@ jobs:
             [ -f "$f" ] || continue
             RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
             echo "  → Zipping: $f → leech-${RND}.zip (split every 99MB)"
-            # -s 99m : split into 99 MB volumes
             zip -s 99m -r "../leecher/leech-${RND}.zip" "$f"
           done
           cd ..
@@ -273,8 +304,6 @@ jobs:
           echo "→ Committing and pushing leecher/ content..."
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-
-          # Only add new/modified files in leecher/
           git add leecher/*
           git commit -m "Add per‑file leech ZIPs [skip ci]" || echo "Nothing to commit"
 
