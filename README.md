@@ -1,11 +1,13 @@
-<div align="center">
+<p align="center">
+  <h1 align="center">🌐 aio‑downloader</h1>
+  <p align="center"><strong>All‑in‑One GitHub Actions Downloader — بدون فیلتر · بدون تحریم</strong></p>
+</p>
 
-# All‑in‑One GitHub Actions Downloader
-## بدون فیلتر · بدون تحریم · بدون نیاز به سرور شخصی
+<p align="center">
+  ⭐ <strong>اگر این پروژه برایتان مفید است، لطفاً ستاره بدهید — به دیگران کمک می‌کند پیدایش کنند!</strong> ⭐
+</p>
 
-⭐ اگر این پروژه برایتان مفید است، لطفاً ستاره بدهید — به دیگران کمک می‌کند پیدایش کنند! ⭐
-
-</div>
+---
 
 ## ⚠️ اعلامیه مهم برای کاربرانی که قبلاً فورک کرده‌اند (حتماً بخوانید)
 
