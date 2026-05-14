@@ -7,6 +7,77 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 05:43
+---
+
+## FoxNewsTwitter — post 341689
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341689_1778724811.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"There is no economy in Cuba."
+
+Secretary Rubio says he doesn't believe the economic trajectory of Cuba can change under the current government.
+</div>
+
+## FoxNewsTwitter — post 341688
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341688_1778724813.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Secretary Rubio says stepping behind the White House press secretary podium wasn't "too bad," but he's not sure if he'd have fun if he had to do it every week.
+
+"Karoline is irreplaceable....We can't wait until Karoline gets back." |@seanhannity
+</div>
+
+## FoxNewsTwitter — post 341687
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341687_1778724815.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump and President Xi Jinping meet for bilateral talks https://twitter.com/i/broadcasts/1nJOLEBAamlxR
+</div>
+
+## FarsiVOA — post 217684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️تحریم‌های مرتبط با جمهوری اسلامی علیه نهادهای چینی چه اثری دارد؟
+@FarsiVOA
+</div>
+
+## IranianMinds — post 20097
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مارکو روبیو:
+
+واشنگتن به پکن روشن کرد که هرگونه حمایت از ایران به روابط دوجانبه آسیب می رساند
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20096
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20096_1778724815.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 لحظه ی دیدار ترامپ و رئیس جمهور‌ چین
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 05:34
 ---
 
